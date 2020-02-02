@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import { ExampleComponent, AnotherExampleComponent } from 'base-layout';
+import { ExampleComponent, AnotherExampleComponent, DBFetcher } from 'base-layout';
 
 export default class App extends Component {
 	render() {
@@ -9,6 +9,8 @@ export default class App extends Component {
 				<ExampleComponent text="React component" />
 				<hr />
 				<AnotherExampleComponent />
+				<hr />
+				<DBFetcher url="/api/template/test" />
 			</div>
 		);
 	}
