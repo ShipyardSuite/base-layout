@@ -66,6 +66,5 @@
 	"homepage": "https://github.com/ShipyardSuite/base-layout#readme",
 	"directories": {
 		"example": "example"
-	},
-	"dependencies": {}
+	}
 }
