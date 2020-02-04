@@ -1,8 +1,5 @@
 # base-layout
 
-[![License][license-badge]][license-url]
-[![npm Version][npm-badge]][npm-url]
-
 Shared components for Shipyard GCDN Microservices
 
 # Installation
