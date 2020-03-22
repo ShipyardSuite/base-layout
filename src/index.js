@@ -1,12 +1,4 @@
-import {
-	DBFetcher,
-	CookieConsentMessage,
-	PageLayout,
-	PageHeader,
-	PageFooter,
-	PageContent,
-	Maintenance
-} from './components';
+import { TestComponent } from './components';
 
-export { DBFetcher, CookieConsentMessage, PageLayout, PageHeader, PageFooter, PageContent, Maintenance };
-export default { DBFetcher, CookieConsentMessage, PageLayout, PageHeader, PageFooter, PageContent, Maintenance };
+export { TestComponent };
+export default { TestComponent };
