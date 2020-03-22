@@ -1,10 +1,10 @@
 {
 	"name": "@shipyardsuite/base-layout",
-	"version": "0.2.3",
+	"version": "0.3.0",
 	"description": "Shared components for Shipyard GCDN Microservices",
 	"author": "ShipyardSuite",
 	"license": "Apache-2.0",
-	"main": "src/index.js",
+	"main": "dist/index.js",
 	"module": "dist/index.js",
 	"jsnext:main": "dist/index.js",
 	"scripts": {
