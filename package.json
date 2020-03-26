@@ -10,7 +10,7 @@
 	"scripts": {
 		"start": "brunch watch --server",
 		"build": "brunch build --production",
-		"build:publish": "npm build && npm publish --access public"
+		"build:publish": "npm run build && npm publish --access public"
 	},
 	"dependencies": {
 		"react": "^15.4",
