@@ -3,8 +3,7 @@ exports.files = {
 	javascripts: {
 		joinTo: {
 			'vendor.js': /^(?!src)/,
-			'app.js': /^src/,
-			'index.js': /^src\/components/
+			'index.js': /^src/
 		}
 	},
 	stylesheets: { joinTo: 'app.css' }
